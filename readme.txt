@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: anoobis
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=HZUWR6Z3SN528&lc=US&item_name=HTML5%20Video%20Background%20Donation%20Link&item_number=html5vidbglink&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted
-Tags: comments, spam
+Tags: html5, video, fullscreen, fullscreen video, video background, background
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
