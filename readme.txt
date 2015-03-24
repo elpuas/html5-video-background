@@ -30,6 +30,9 @@ Let me know in a comment or email me and I will add it.
 
 == Changelog ==
 
+= 1.1 =
+* Fixed logic error that prevented the plugin from working. Introduced during clean up.
+
 = 1.0 =
 * Lots of clean up.
 * Linted JS.

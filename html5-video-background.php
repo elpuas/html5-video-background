@@ -190,7 +190,7 @@ if( !class_exists('VIDBG') ){
       $_vidbg_muted = ($_vidbg_muted == 'true') ? 'muted' : '';
 
       // if neither of these two are set theres no point in doing anything so get out
-      if (!$_vidbg_vid_url_mp4 || !$_vidbg_vid_url_webm) return;
+      if (!$_vidbg_vid_url_mp4 && !$_vidbg_vid_url_webm) return;
 
       $_vidbg_img_url = isset( $values['vidbg_img_url'] ) ? esc_attr( $values['vidbg_img_url'][0] ) : '';
       $video_html = '<video ' . $_vidbg_autoplay . ' ' . $_vidbg_loop . ' ' . $_vidbg_muted . ' poster="' . $_vidbg_img_url . '" id="vidbg_fullscreen">';
